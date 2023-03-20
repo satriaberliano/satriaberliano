@@ -3,7 +3,7 @@
 </br>
 
 ## About me
-- 👀 I’m interested in Front-End Web Developer
+- 👀 I’m interested in Front-End Web
 - 🌱 I’m currently learning Front-End Web Development and React Learning Path
 - 📫 How to reach me ↓↓↓
 <br><br>
