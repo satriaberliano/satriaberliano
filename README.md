@@ -3,11 +3,10 @@
 </br>
 
 ## About me
-- 👀 I’m interested in Front-End Web
-- 🌱 I’m currently learning Front-End Web Development and React Learning Path
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Front-End and Back-End Web Development
 - 📫 How to reach me ↓↓↓
 <br><br>
-<a href="https://github.com/satriaberliano"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/satriaberlianomanzi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/satria_berliano/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
